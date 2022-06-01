@@ -1,0 +1,5 @@
+BUFFER_SIZE = len(input_tensor_train)
+BATCH_SIZE = 64
+steps_per_epoch = len(input_tensor_train)//BATCH_SIZE
+embedding_dim = 500
+units = 256
