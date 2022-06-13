@@ -132,7 +132,7 @@ def evaluate(sentence):
 
 app = Flask(__name__)
 
-@app.route("/", methods=['GET', 'POST'])
+@app.route("/delete/<int:id>", methods=['GET', 'POST'])
 def iris_prediction():
     if request.method == 'GET':
         return render_template("iris-prediction.html")
