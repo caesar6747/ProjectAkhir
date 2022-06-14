@@ -7,7 +7,7 @@ import re
 import pickle
 from numpy import array, argmax, random, take
 import tensorflow as tf
-#from tensorflow.compat.v1.keras.layers import CuDNNGRU
+from tensorflow.compat.v1.keras.layers import CuDNNGRU
 from tensorflow.keras.layers import Dense, GRU, Embedding
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.callbacks import ModelCheckpoint
@@ -37,7 +37,7 @@ class Encoder(tf.keras.Model):
 		self.batch_sz = batch_sz
 		self.enc_units = enc_units
 		self.embedding = tf.keras.layers.Embedding(vocab_size, embedding_dim)
-		self.gru = GRU(self.enc_units,
+		self.gru = CuDNNGRU(self.enc_units,
 	                       return_sequences=True,
 	                       return_state=True,
 	                       recurrent_initializer='glorot_uniform')
@@ -56,7 +56,7 @@ class Decoder(tf.keras.Model):
 		self.batch_sz = batch_sz
 		self.dec_units = dec_units
 		self.embedding = tf.keras.layers.Embedding(vocab_size, embedding_dim)
-		self.gru = GRU(self.dec_units, return_sequences=True, 
+		self.gru = CuDNNGRU(self.dec_units, return_sequences=True, 
 							return_state=True, 
 							recurrent_initializer='glorot_uniform')
 		self.fc = tf.keras.layers.Dense(vocab_size)
