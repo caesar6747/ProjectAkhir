@@ -1,0 +1,2227 @@
+Apa kabar	Narai kabar
+apa katanya 	Narai kua
+aku pulang	aku buli
+aku sedang belajar	aku lagih belajar
+aku mau makan	aku handak kuman
+aku datang 	aku dumah
+aku pergi	aku tulak
+aku sudah menjawab pertanyaan	aku jadi manjawab pertanyaan
+aku suka kamu	aku handak dengam
+aku mimpi tadi malam	aku manupi alem ndau
+aku ini siapa	aku toh eweh
+aku mau minum	aku handak mihup
+saya pergi kepasar	aku tulak akan pasar
+ibu pergi kepasar	umai tulak akan pasar
+ibu membeli beras	umai mamili behas
+ayah sedang bekerja	apang lagih bagawi
+ibu sedang membersihkan rumah	umai lagih marasih huma 
+ibu sedang memasak	umai lagih bamasak
+ibu sedang mencuci	umai lagih 
+satu,dua,tiga,empat,lima,enam,tujuh, delapan,sembilan, sepuluh	ije,due,telo,epat,lime,jahawen,uju,hanya,jalatien,sapuluh
+seratus	ije ratus
+saribu	ije kuyan
+kapan nikah	pea kawin
+kamu tinggal dimana	ikau melai hang kueh
+berapa anak mu	pire anak muh
+bagaimana caranya bisa memasak	kinampih cara tau bamasak
+aku mau kesana	aku handak kan hekaw
+jangan tinggalkan aku	ela malihi aku
+ibu merebus mie	umai maluntuh mie
+mati lampu	matei lampu
+dari mana kamu	bara kueh ikau
+aku cinta kamu	aku sinta dengam 
+jangan takut	ela mikeh
+aku ingin jadi presiden	aku handak jadi presiden
+aku sayang kamu	aku sayang ikau
+ayo bermain sepakbola di lapangan	yo main sepakbola melai lapangan
+kenapa badanmu terlalu kecil	buhen bitim kurik
+kenapa badan mu terlalu besar	buhen bitim hai
+lama tak bertemu	tahi dia hasupa
+apa kerjaan kalian	narai gawin ketun 
+aku buka tutup botol	aku mukei tutup botol
+selamat hari minggu	salamat andau minggu
+selamat hari senin	salamat andau senin
+selamat hari selasa	salamat andau salasa
+selamat hari rabu	salamat andau raba
+selamat hari kamis	salamat andau kamis
+selamat hari jumat	salamat andau jumahat
+selamat hari sabtu	salamat andau sabtu
+selamat sore	salamat halemei
+selamat malam	salamat hamalem
+selamat pagi	salamat hanjewu
+tolong aku	dohop aku
+kamu harus sabar	ikau harus sabar
+kamu bodoh	ikau humung
+siapa namamu	eweh aram
+siapa nama ayahmu	eweh aram bapam
+siapa nama ibumu	eweh aram indum
+siapa nama anakmu	eweh aran anakmuh
+siapa nama nenekmu	eweh aran tambim
+siapa nama kakakmu	eweh aran buem
+aku mau beli beras	aku handak mili behas
+aku mau beli baju	aku handak mili baju
+jangan main hape terus	ela musik hape tarus
+bantu orang tua mu	duhup uluh bakas muh
+aku belajar berenang  	aku balajar hanangui
+aku mau berangkat ke sekolah	aku handak tulak kan sakula
+mau makan dulu	handak kuman helu
+ibu masak ikan goreng	umai bamasak lauk goreng
+aku kangen kamu	aku taharu dengam
+bantu angkat barang	dohop metun barang
+aku mau pinjam uang	aku handak minjam duit
+jangan iri ya	ela bahiri lah
+aku mau naik pesawat	aku handak mandai pasawat
+aku mau turun dari lift	aku handak muhun bara lift
+sudah busuk buah itu	jadi maram bua jikau
+aku mau minta tolong	aku handak balaku dohop
+darimana asalmu	bara kueh asal muh
+kamu orang mana	uluh kueh ikau
+aku masih muda dan ganteng	aku masih tabela dengan bakena
+aku masih muda dan cantik	aku masih tabela dengan bawi bakena
+aku tangkap anjing	aku manekap asu
+jangan malas ya	ela kadian lah
+besok kita turun sekolah	jewu itah muhun sakula
+ayo bicara	yu bapander
+kamu sudah makan	jadi ikau kuman
+besok kita berangkat ke sekolah	jewu itah tulak kan sakula
+jangan malas	ela kadian 
+bantu aku	dohop aku
+Bagaimana kehidupan	kenampi belum
+aku minta maaf	aku balaku maaf
+doakan saya	doa aku
+siapa namamu	eweh aram
+aku sedang tidak enak badan	aku lagih dia mangat biti
+aku lapar	aku balau
+aku mau tidur	aku handak batiruh
+tetap semangat	tatap samangat
+aku sedang beribadah	aku lagih sembahyang
+aku naik pohon	aku mandai upun
+coba kulihat	coba kuture
+kamu ganteng	ikau bakena
+kamu cantik	ikau bawi lamus
+kita kalah	itah kalah
+kita menang	itah menang
+Aku punya rencana	Aku tege rencana 
+aku tahu	tawangkuih
+lanjutkan	lanjut ih
+saya melihat	aku ture
+aku coba	aku coba
+saya menang	aku menang
+masuklah	tame bei
+peluk aku	maluk aku
+saya merasa	aku keme
+aku tersesat	aku layang
+aku sudah bayar	aku jadi bayar
+kita coba	itah coba
+kita menang	itah manang
+kita kalah	itah kalah
+tenang	tanang
+adil	adil
+bersikaplah dengan baik	basikap dengan bahalap
+panggil aku	tehau aku
+hubungi kami	hubung ikei
+pulang kerumah	buli kan huma
+pergi lambat	tulak lambat
+selamat tinggal	salamat tinggal
+tunggu sebentar	nunggu sanjulun
+dia berhenti	ie tende
+dia lari	ie hadari
+bantu kami	dohop ikei
+saya setuju	aku satuju
+saya menangis	aku menangis
+saya tertidur	aku tapatiruh
+saya menyetir	aku manyetir
+saya merokok	aku maroko
+saya mendengkur	aku mangerok
+saya bau	aku bahewau
+saya berdiri	aku mendeng
+saya bersumpah	aku basumpah
+saya mencoba	aku mancoba
+saya melambai	aku mangipai
+saya gemuk	aku baseput
+bergabunglah dengan kami	hagabung dengan ikei
+cium aku	nyium aku
+simpan saja	ingkes ih
+tunjukkan padaku	parahan akangkuh
+ceritakan padaku	ngesah akangkuh
+selamat datang	Salamat Dumah
+angkat bicara	angkat pander
+ikuti aku	nuntut aku
+Jangan berlari	ela hadari
+jangan bertanya	ela misek
+jangan mati	ela matei
+permisi mau nanya	permisi handak misek
+jangan menangis	ela manangis
+mendapatkan pekerjaan	dinu gawian
+semoga beruntung 	mundahan barazaki
+aku sedang sibuk 	aku lagih deruh
+aku tenang	aku tanang
+aku dingin	aku sadingen
+saya disini	aku hong hetuh
+saya sakit	aku badarem
+saya yakin	aku yakin
+saya lemah	aku balemu
+saya minta mohon padamu	aku balaku mohon dengam 
+saya bisa berlari	aku tau hadari
+saya bernapas 	aku nahaseng
+saya menyerah	aku manyarah
+saya berharap begitu	aku harap kalote
+saya tahu itu	aku tawangkuih jikau
+saya harus pergi	aku harus buli
+saya berjanji	aku bajanji
+saya lelah	aku uyuh
+saya tangguh	aku tangguh
+saya sadar	aku sadar
+aku siap	aku siap
+apa itu buruk	narai jikau papa
+apakah panas	narai kah balasut
+aku milikmu	aku ayum
+itu gagal	jikau gagal
+ini baru	jituh haru
+ini lama	jituh tahi
+baru saja	haru ih
+itu bau	bahewau jikau
+tidak apa-apa	dia nrai ih
+ini bekerja	jituh bakerja
+itu berhasil	jikau bahasil
+ini dingin	jituh sandingen
+ini gelap	jituh kaput
+ini mati	jituh matei
+ini selesai	jituh jadi
+ini makanan	jituh panginan
+ini gratis saja	jituh gratis
+itu disini	jikau hetuh
+itu hilang	jikau nihau
+biarkan aku pergi	biar ih aku tulak
+biarkan aku masuk	biar ih aku tame
+sudah makan	jadi kuman
+ayo makan	yo kuman
+berbaring diam	menter benyem
+melihat kebelakang	nanture kalikut
+melihat keatas	nanture kan hunjun
+lihat disini	ture hetuh
+lihat di atas	ture kan hunjan
+lihat dibawah	ture kan penda
+tangkap dia	nekap ie
+dia menangis	ie manangis
+dia berjalan	ie mananjung
+tanda tangan	tanda lenge
+pelan-pelan	rangkah-rangkah
+tinggal disini	melai hetuh
+tetap dibawah	tatap melai penda
+tetap disini	tatap melai hetuh
+hati-hati dijalan	babuah melai jalan
+ambil punyaku	nduan ayungkuh
+ambil ini	nduan jituh
+terima kasih	tarima kasih
+mereka jatuh	ewen manjatu
+mereka meninggalkan	ewen malihi
+mereka berbohong	ewen nanjaru
+mereka tersesat	ewen layang
+mereka berenang	ewen hanangui
+coba lagi	coba hindai
+belok kiri	belok sambil
+belok kanan	belok gantau
+tunggu disini	nunggu hetuh
+kami setuju	ikei satuju
+kami tidak setuju	ikei dia satuju
+kita berhasil	ikei bahasil
+kami lupa	ikei dia bingat
+kami melihatnya	ikei ture
+kami tersenyum	ikei senyum
+kami tertawa	ikei tatawe
+kami berjalan	ikei mananjung
+kami menunggu lama	ikei manunggu tahi
+kami pasti menang	ikei pasti manang
+kami pasti kalah	ikei pasti kalah
+kami panas	ikei balasut
+kami malu	ikei mahamen
+siapa peduli	eweh paduli
+siapa dia	eweh ie
+siapa itu	eweh jite
+siapa tahu	tahu
+siapa yang berbicara	eweh ji bapander
+siapa yang akan pergi	eweh ji tulak
+kamu didepan	ikau melai baun
+kamu sudah bangun	ikau jadi misik
+tepat waktu	tapat waktu
+bawa makanan	imbit panginan
+bawa air minum	imbit danum mihup
+saya bisa datang	aku tau dumah
+saya tidak bisa datang	aku dia tau dumah
+bisa saya bantu	tau aku manduhup
+bisakah aku tinggal	taukah aku melai
+bawa ini	imbit jituh
+pilih satu	intih ije
+datang sendiri	dumah kabuat
+datanglah padaku	dumahlah aku
+apa pria menangis	narai hatue menangis
+jangan lompat	ela nangkajuk
+jangan bergerak	ela bagarak
+jangan terburu-buru	ela kajeng kisu
+jangan menanyi	ela manyanyi
+jangan berbicara	ela bapander
+jangan menunggu	ela manunggu
+mencari pekerjaan	manggau gawi
+mendapatkan kehidupan	mandinu kahidupan
+pergi ke luar	tulak kan luar
+dia menyerah	ie manyarah
+ada orang nelpon	tege uluh manelpon
+dia sedang sibuk	ie lagih deruh
+dia ada disini	ie tege hetuh
+dia baik	ie harati
+dia terlambat	ie lambat
+dia malas	ie kadian
+dia sakit	ie badarem
+dia cantik	ie bawi bakena
+dia tampan	ie bakena
+dia berhasil	ie bahasil
+dia pintar	ie pintar
+dia mabuk	ie babusau
+ini dia	tuh ie
+bagaimana bekerja	kenampi bagawi
+cepat pulang	capat buli
+aku laki laki	aku hatue
+aku wanita	aku bawi
+aku perempuan 	aku bawi
+aku manusia	aku kalonen
+aku pergi	aku tulak
+aku benar	aku bujur
+aku salah	aku sala
+aku merusaknya	aku marusak ah
+aku bisa membaca	aku tau mambasa
+aku bisa menulis	aku tau manulis
+aku bisa memasak	aku tau bamasak
+aku bisa melompat	aku tau nangkajuk
+aku bisa menyanyi	aku tau manyanyi
+aku bisa berenang	aku tau hanangui
+aku bisa berjalan	aku tau mananjung
+aku bisa melihat	aku tau nanture
+aku batal pergi	aku balang tulak
+aku setuju	aku satuju
+aku iri padamu	aku bahiri dengam
+aku iri padanya	aku bahiri denga
+saya merasa buruk	aku mangkeme papa
+saya merasa tua	aku mangkeme bakas
+aku telah memperbaiki nya	aku jadi ngambuah ah
+aku menemukannya	aku mandinu ah
+kamu jelek	ikau papa
+aku punya satu	aku tege ije
+saya menang	aku manang
+aku mendengarmu	aku mahining aum
+aku membantu nya	aku manduhup ah
+saya tahu dia	aku tawangkuh ie
+aku menyukai dia	aku handak ie
+aku membuat the	aku manampa the
+aku membuat dua 	aku manampa due
+saya harus lari	aku harus hadari
+saya bertemu mereka	aku sundau ewen
+aku ingat	aku ingat
+aku sehat	aku barigas
+saya bilang iya	aku bapander yuh
+aku duduk	aku munduk
+saya melihat mereka	aku nanture ewen
+aku berteriak	aku nangkariak
+aku selamat	aku salamat
+saya muntah	aku muta
+saya menggunakan ini	aku mahapa jituh
+saya ingin satu	aku handak ije
+saya mau kamu	aku handak dengam
+aku kuat	aku kuat
+aku lemah	aku balemu
+santai aja	santai ih
+biarkan dia pergi	biar ih iye tulak
+biarkan dia masuk	biar ih iye tame
+biarkan aku mati	biar ih aku matei
+biarkan aku keluar	biar ih aku balua
+saya yang bayar	aku ih bayar
+biarkan aku mancoba	biarih aku mancoba
+lihat lagi	ture hindai
+tidak masalah	dia masalah
+harus bersyukur	harus basukur
+tidak ada uang	jatun ti duit
+kta selamat	itah salamat
+kamu lapar	ikau balau
+sudah malam pulang	jadi hamalem buli
+aku berbelanja	aku bapili
+kamu sendirian	ikau kabuat 
+kamu marah	ikau basingi
+apa kamu senang	narai ikau sanang
+jadilah anak yang baik	jadi anak ji harati
+jangan makan sembarangan	ela kuman sambarangan
+makanan dan minuman	paginan dengan danum mihup
+semua orang mati	uras uluh matei
+semua orang bernyanyi	uras uluh manyanyi
+semua orang berdiri	uras uluh mendeng
+semua orang tertawa	uras uluh tatawe
+semua orang menangis	uras uluh manangis
+semua orang diam	uras uluh benyem
+semua orang senang	uras uluh sanang
+kembali kesini	mules kan hetuh
+lepaskan aku	lapas aku
+ambil jacket mu	duan jaket muh
+tuhan memberkati mu	tuhan mamberkat ikau
+serahkan padaku	 nyarah akangkuh
+dia tidak bodoh	iye dia humung
+jam berapa dia datang	jam pire iye dumah
+aku bisa menari	aku tau manari
+aku tidak minum	aku dia mihup
+aku tidak merokok	aku dia merokok
+tidak boleh merokok disini	dia tau maroko melai hetuh
+saya bermimpi	aku manupi 
+saya sedang mendengar musik	aku lagih mahining lagu
+aku tidak marah	aku dia basingi
+aku gemuk	aku baseput
+badanku kecil sekali	bitingkuh kurik tutu
+badan nya besar sekali	biti ah hai tutu
+badan nya kecil sekali	biti ah kurik tutu
+aku kurus	aku paringkung
+ tinggi sekali	gantung tutu
+saya tidak berbohong	aku dia nanjaru
+saya tidak gemuk	aku dia baseput
+saya tidak tinggi	aku dia gantung
+saya tidak siap	aku dia siap
+saya tidak pendek	aku dia pandak
+aku tidak lelah	aku dia uyuh
+saya tidak muda	aku dia tabela
+tutup jendela	nutup jandela
+tutup pintu	nutup batunggang
+kunci pintu	 ngunci batunggang
+kamu tidur	ikau batiruh
+dapat hadiah	dinu hadiah
+dapat makanan	dinu panginan
+tunjukkan jalan	nunjuk jalan
+beri aku uang	nenga aku duit
+minta uang	laku duit
+minta makanan	laku panginan
+minta air	laku danum
+cium dia	nyium ie
+selamat tahun baru	salamat nyelu hateta
+selamat ulang tahun	salamat ulang tahun
+selamat panjang umur	salamat panjang umur
+sehat selalu	barigas tarus
+selamat siang	salamat bentuk andau
+selamat datang	salamat datang
+sudah kubilang	jadi ander kuh
+selamat liburan	salamat liburan
+panggil dia	tehau ie
+besok hari minggu	jewu andau minggu
+besok hari senin	jewu andau senin
+besok hari selasa	jewu andau salasa
+besok hari rabu	jewu andau raba
+besok hari kamis	jewu andau kamis
+besok hari jumat	jewu andau jumahat
+besok hari sabtu	jewu andau sabtu
+nonton tv	manonton tv
+semoga hari mu menyenanglan	samoga andau muh sanang
+kamu sedang dirumah	ikau lagih melai huma
+aku anak pertama	aku anak ke ije
+tutup mata	nutup mata
+tutup matamu	nutup matam
+bersihkan rumah	rasih huma
+tutup pintu itu	nutup batunggang jikau
+tutup mulutmu	nutup nyamam 
+kamu makan ikan	ikau kuman lauk
+kamu makan nasi	ikau kuman bari
+kamu makan ayam	ikau kuman manuk
+pinjam uang	minjam duit
+jangan lupa senyum	ela dia bingat senyum
+aku suka kopi	aku rajin kopi
+aku belajar bahasa inggris	aku balajar bahasa inggris
+dia baik	ie harati
+aku tidak tahu	aku dia tawa
+aku tidak kenal	aku dia kenal
+aku belum makan	aku hindai kuman
+aku sakit	aku badarem
+aku sehat	aku barigas
+kamu bisa berenang	ikau tau hanangui
+kamu bisa memasak	ikau tau bamasak
+kamu bisa membersihkan rumah	ikau tau marasih huma
+makanan ini enak	panginan jituh mangat
+makanan ini basi	panginan jituh basi
+makanan ini tidak enak	panginan tuh dia mangat
+kita berkeluarga	itah hampahari
+aku tinggal di indonesia	aku melai hung indonesia
+aku tinggal di kalimantan	aku melai hung kalimantan
+baju mu bagus	bajum bahalap
+bajumu warna nya hitam	bajum warna ah babilem
+jangan tanya lagi	ela misek hindai
+kamu gila	ikau gila
+besok bisa ketemu	jewu tau hasupa
+aku suka berenang	aku rajin hanangui
+hobby ku bermain badminton	hobby kuh main badminton
+salam sehat	salam baringas
+aku cinta anakku	aku sinta anak kuh
+aku sayang anak ku	aku sayang anak kuh
+aku sayang orang tua	aku sayang uluh bakas
+sayang orang tua	sayang uluh bakas
+aku sayang ibu	aku sayang indu
+aku sayang ayah	aku sayang apang
+aku sayang kakak	aku sayang kaka
+aku sayang adik	aku sayang andi
+jangan tidur	ela batiruh
+jangan bangun	ela misik
+jangan makan permen	ela kuman gulabatu
+besok hari apa	jewu andau narai
+dia guruku	ie gurukuh
+aku naik motor	aku mandai motor
+aku naik mobil	aku mandai mobil
+aku naik sepeda	aku mandai sapeda
+dia membeli sepatu	ie mamili sapatu
+dia membeli sendal	ie mamili sandal
+maaf menggangu	maaf manderuh
+jangan menggangu	ela manderuh
+besok libur	jewu libur
+besok tanggal merah	jewu tanggal bahandang
+kalian berapa bersaudara	ketun pire hampahari
+umur berapa	umur pire
+dia meninggal	ie malihi
+aku mau berenang	aku handak hanangui
+kamu kerja dimana	ikau bagawi melai kueh
+sedang apa kamu	lagih narai ikau
+aku tidak berbohong	aku dia nanjaru
+aku butuh belajar	aku perlu balajar
+aku tidak pernah melihat mu	aku dia puji nanture ikau
+saya sering melakukan ini	aku rancak menggawi jituh
+aku tidak mencuri	aku dia manakau
+aku sering melihatnya	aku rancak nanture
+saya butuh satu	aku perlu ije
+jangan lama	ela tahi
+jangan menyanyi	ela manyanyi
+aku baca buku	aku mambasa buku
+dia ramah sekali	ie bajenta tutu
+dia pendiam sekali	ie pambenyem tutu
+aku berdiri didepan	aku mendeng hung baun
+saya ingat itu	aku bingat jikau
+saya ingat mereka	aku bingat ewen
+menjemur pakaian	mangekei pakaian
+aku ingat ini	aku bingat jituh
+saya berlari setiap hari	aku hadari satiap andau
+aku ada melihatnya	aku tege nanture
+sudah makan	jadi kuman
+jangan malu	ela mahamen
+jangan lupa beribadah	ela dia bingat sembahyang
+jangan menggangu	ela manderuh
+sudah mandi	jadi mandui
+jangan berhenti	ela tende
+kami bangga	ikei bangga
+aku berhenti merokok	aku terai maroko
+kamu makan banyak	ikau are kuman
+apakah kamu peduli	en ikau peduli
+kamu merasa sakit	ikau mangkeme kapehe
+kamu punya bir	ikau tege bir
+kamu punya waktu	ikau tege waktum
+apakah kamu mendengar itu	en ikau mahining jikau
+apakah kamu suka kucing	en ikau rajin pusa
+apakah kamu suka anjing	en ikau rajin asu
+apakah kamu suka ikan	en ikau rajin lauk
+kamu suka itu	ikau rajin jikau
+kamu suka ini	ikau rajin jituh
+kamu bekerja disini	ikau bagawi melai hetuh
+kerjakan pekerjaan rumah	manggerja  gawian huma
+jangan tanya aku kenapa	ela misek aku buhen
+jangan jadi orang bodoh	ela jadi uluh humung
+jangan bodoh	ela humung
+jangan terlalu malas	ela lalau kadian
+jangan terlalu rendah	ela lalau randah
+jangan terlalu bodoh	ela lalau gantung
+tetap rendah hati	tatap randah atei
+jangan datang lagi	ela dumah hindai
+jangan menipu saya	ela nanjaru aku
+jangan minum itu	ela mihup jikau
+jangan makan itu	ela kuman jikau
+ikut orang tua	umba uluh bakas
+jangan lihat aku	ela ture aku
+jangan lihat kami	ela ture ikei
+jangan patah semangat	ela patah samangat
+jangan paksa aku pergi	ela maksa aku tulak
+jangan berisik	ela ridu
+jangan sebutkan itu	ela mayewut jikau
+jangan diangkat	ela mangkat ah
+jangan bicara padaku	ela bapander dengankuh
+jangan sentuh itu	ela mimbing jikau
+minum banyak air	mihup are danum
+semua orang melompat	uras uluh nangkajuk
+semua orang melihatnya	uras uluh nampayah ah
+semuanya mati	uras ah matei
+kaki nya patah	pai ai bapulek
+semua disini	uras kahetuh
+semua orang berubah	uras uluh barubah
+semua orang ada disini	uras uluh tege melai hetuh
+semua orang tertawa	uras uluh tatawe
+semua orang berbohong	uras uluh mananjaru
+beri aku makanan	nenga aku panginan
+selamat bersenang-senang	salamat bersanang-sanang
+semoga selamat sampai tujuan	mundahan salamat sampai tujuan
+minum kopi	mihup kopi
+apakah kamu pernah bertemu dengannya	en ikau puji sundau denga
+dia mulai berlari	ie nampara hadari
+aku setuju dengannya	aku satuju denga
+aku tidak setuju dengannya	aku dia satuju denga
+aku setuju dengan kamu	aku satuju dengam
+aku tidak setuju dengan kamu	aku dia satuju dengam
+aku hampir tenggelam	aku handak leteng
+saya percaya pada tuhan	aku percaya dengan tuhan
+aku percaya padanya	aku percaya denga
+aku tidak percaya padanya	aku dia percaya denga
+aku percaya kamu	aku percaya ikau
+aku tidak percaya kamu	aku dia percaya ikau
+saya membeli rumah	aku mamili huma
+saya membeli pisang	aku mamili pisang
+saya membeli jam tangan	aku membeli jam tangan
+saya membawa buku	aku meimbit buku
+saya membawa baju	aku meimbit baju
+saya membawa jalan-jalan	aku meimbit mananjung
+saya membawa makan	aku meimbit kuman
+saya membawa minum	aku meimbit mihup
+saya datang kemarin	aku dumah male
+saya bisa mengganti nya	aku tau manggati ah
+saya tidak bisa berdiri	aku dia tau mendeng
+saya bisa berdiri sendri	aku tau mendeng kabuat
+aku tidak bisa menyelamatkan mu	aku dia tau manyalamat ikau
+tali nya putus	tali ah bagetu
+aku bisa mencium mu	aku tau manyium ikau
+saya tidak bisa tidur	aku dia tau batiruh
+saya tidak bisa berbicara	aku dia tau bapander
+saya tidak tahan	aku dia tahan
+dia menjemur pakaian	ie mangekei pakaian
+saya berhak mendapatkan yang lebih baik	aku berhak mandinu ji labih bahalap 
+dia orang nya baik	ie ulu ah bahalap
+saya sudah melakukannya	aku jadi manggawi ah
+aku melakukannya untukmu	aku manggawi ah akam
+saya tidak mendengarnya	aku dia mahining ah
+saya tidak menyukainya	aku dia rajin
+saya tidak bermaksud apa-apa	aku dia bamaksud narai-narai
+apa maksudmu	narai maksudmuh
+aku tidak suka kopi	aku dia rajin kopi
+dia orangnya kuat	ie ulu ah kuat
+dia orangnya lemah	ie ulu ah balemu
+dia orang nya ramah	ie ulu ah bajenta
+saya punya rencana	Aku tege rencana 
+berikan pada nya	nenga aka
+jangan diam	ela benyem
+jangan rakus	ela babungu
+kita keluarga	itah pahari
+jangan berbohong	ela nanjaru 
+lama tidak bertemu	tahi dia hasupa
+pergi memancing	tulak mamisi
+jangan marah	ela basingi
+itu untuk dijual	jikau akan injual
+apakah itu terlalu sulit	en jikau lalau bahali
+itu terlalu banyak	jikau lalau kakare
+itu mobilmu	jikau mobil muh
+itu kucingmu	jikau pusam 
+itu anjingmu	jikau asum
+ini untukmu	jituh akam
+ini untukku	jituh akangkuh
+itu ibu mu	jikau indum
+itu bapak mu	jikau bapam
+buka pintu	buka batunggang
+ini mobilmu	jituh mobil muh
+apa ini	narai jituh
+ini anjing mu	jituh asum
+ini penamu	jituh pulpem
+ibumu dirumah	indum melai huma
+ayahmu di rumah	bapam melai huma
+itu sangat kecil	jikau lalau kurik
+itu sangat besar	jikau lalau hai
+itu sangat tinggi 	jikau lalau gantung
+itu sangat pendek	jikau lalau pandak
+itu hak kamu	jikau hak muh
+itu baru keluar	jikau haru balua
+itu penting untukku	jikau penting akangkuh
+itu membuatku tertawa	jikau manampa ku tatawe
+itu penting sekali	jikau penting tutu
+itu harus ada	jikau harus tege
+itu besar	jikau hai
+itu kecil	jikau kurik
+semua ada disana	uras tege  melai kanih
+semua salah	uras sala
+semua benar	uras bujur
+itu semua salah nya	jikau uras sala ayu
+itu semua salah kamu	jikau uras sala ikau
+itu tahun lalu	jikau nyelu male
+itu wajib	jikau wajib
+itu sangat dingin	jikau lalau sadingen
+itu sangat gelap	jikau lalau kaput
+itu sangat bagus	jikau lalau bahalap
+itu sangat jelek	jikau lalau papa
+itu pertanda baik	jikau pantanda bahalap
+itu bunga	jikau kambang
+itu anjing	jikau asu
+itu kucing	jikau pusa
+bagaimana ini	kenampi tuh
+siapa itu	eweh jikau
+siapa namamu	eweh aram
+jangan bodoh	ela humung
+anak baik	anak harati
+beri aku semangat	nenga aku samangat
+jangan bicara begitu	ela bapander kalute
+apa itu cinta	narai te sinta
+kami berbicara	ikai bapander
+jangan percaya	ela percaya
+kami bermain pada hari minggu	ikei busik pas andau minggu
+kami kehabisan bensin	ikei kalepahan bensin
+kita jarang makan diluar	itah jarang kuman melai luar
+kami menyewa makan diluar	ikei manyewa kuman melai luar
+kami melihat semuanya	ikei nanture uras ah
+kami melihat mereka pergi	ikei nanture ewen tulak
+kita harus pulang	itah harus buli
+kami mencoba semuanya	ikei mancoba uras ah
+kami menunggu di luar	ikei manunggu melai luar
+aku menunggu di luar	aku menunggu melai luar
+kami ingin lebih banyak makanan	ikei handak labih are panginan
+kami ingin uang kami	ikei handak duit ikei
+kita sendirian	itah kabuat
+kami semua senang	ikei uras hanjak
+kami semua lelah	ikei uras uyuh
+kita semua salah	itah uras sala
+kami semua takut	ikei uras mikeh
+semuanya berisiko	uras ah beresiko
+semua adalah teman	uras ah kawal
+sudah pensiun semua	jadi pensiun uras
+sudah menikah 	jadi kawin 
+dulu berteman sekarang	bihin hakawal wayahtuh
+zaman sekarang	zaman wayahtuh
+jangan nakal	ela badungil
+jangan iri	ela bahiri
+semakin tua	sasar bakas
+semakin muda	sasar tabela
+pergi sekarang	tulak tuh ih
+pergi cepat	tulak ancap
+jangan datang terlambat	ela dumah lambat
+sudah menikah 	jadi kawin 
+belum menikah	hindai kawin
+bukan teman	beken kawal
+kami tidak bercanda	ikei dia hureh
+kami bercanda	ikei hureh
+kami tidak mencari	ikei dia manggau
+kami tidak menikah	ikei dia kawin
+kita tidak sempurna	itah dia sampurna
+kami tidak serius	ikei dia serius
+kami tidak ada senyum	ikei jatun senyum
+kami tidak percaya	ikei dia percaya
+kami tidak tinggal	ikei dia melai
+kita teman lama	itah kawal tahi
+kita kehabisan garam	itah kalepahan uyah
+kita kehabisan makanan	itah kalepahan panginan
+kita kehabisan air	itah kalepahan danum mihup
+kita kehabisan waktu	itah kalepahan waktu
+kita kehabisan susu	itah kalepahan susu
+kami bertahan	ikei batahan
+kami siap pergi	ikei siap tulak
+kami sangat baik	ikei tutu bahalap
+kita masih hidup	itah masih belum
+kami mengambil alih	ikei manduan alih
+kita semua telah melakukannya	ikei uras jadi manggawi ah
+kita semua pernah melihatnya	itah uras puji nanture ah
+aku minta maaf	aku balaku maaf
+percaya padaku	percaya dengangkuh
+kita sudah bertemu	kita jadi hasupa
+kita pernah bertemu	itah puji hasupa
+kamu minum	ikau mihup
+kamu makan	ikau kuman
+sudah makan	jadi kuman
+jangan sampai lupa	ela sampai dia bingat
+sakit kelapa	pehe takuluk
+ide yang bagus	ide ji bahalap
+pemandangan yang bagus	pemandangan ji bahalap
+semoga harimu indah	mundahan andau muh bahalap
+apa warna kesukaan mu	narai warna kasukaan muh
+apa yang kita lakukan	narai ji itah manggawi
+apa yang dia katanya	narai ji ie kua
+apa yang kamu temukan	narai ji dimum
+apa yang kamu dengar	narai ji hining muh
+jangan begitu	ela kalute
+apa yang kamu sembunyikan	narai ji nyahukam
+apa yang kamu buat	narai ji nampam
+buat apa	akan narai
+membuat apa	manampa narai
+bagaimana menurut mu	kenampi menuruh muh
+apa yang dia mau	narai ji ie handak
+berapa biayanya	pire biaya ah
+apa artinya	narai arti ah
+apa yang membuatku pergi	narai ji manampa ku tulak
+apa yang terjadi	narai ji terjadi
+sudah saja	jadi ih
+apa yang dia sembunyikan	narai ji ie nyahuka
+apa yang kamu lakukan	narai ji gawim
+disebut apakah itu	inyewut narai jite
+berapa harganya	pire rega ah
+mau beli berapa	handak mili pire
+siapa namamu	eweh aram
+apa yang dibeli	narai ji mili
+Apa yang harus kumakan	narai ji harus kinangkuh
+apa yang harus kuminum	narai ji harus ihupkuh
+kita harus berani	itah harus bahanyi
+kita harus kerja keras	itah harus cangkal
+jangan malu	ela mahamen
+jangan lelah bekerja	ela uyuh bagawi
+jangan malas bekerja	ela kadian bagawi
+apa yang saya katakan	narai ji auhkuh
+apa kataku	narai kuangkuh
+panggil namaku	tehau arangkuh
+aku mau berbaring	aku handak menter
+aku mau tidur	aku handak batiruh
+jangan mau	ela handak
+apa yang dia lakukan	narai ji ie mawi
+siapa nama nya	eweh ara
+jangan sombong	ela sombong
+seperti apa dia	kilau narai iye
+apa yang ada didalam tas	narai ji tege melai tas
+suara apa itu	suara narai jikau
+barang apa itu	barang narai jikau
+apa jawaban nya	narai jawaba
+nomor berapa itu	nomor pire jikau
+apa alasannya	narai alasa
+kapan kamu sibuk	pea ikau deruh
+kapan kamu datang	pea ikau dumah
+kapan kita sampai	pea itah sampai
+kapan kamu belajar	pea ikau balajar
+kapan dia datang	pea iye dumah
+kapan buka	pea buka
+dia sudah pergi	iye jadi buli
+kapan pestanya	pea pesta ah
+berapa umurmu	pire umur muh
+kapan dia lahir	pea iye lahir
+kapan dia datang	pea iye dumah
+Kamu ada di mana sekarang	ikau tege melai kueh wayahtuh
+Kemana mereka pergi	kakueh ewen tulak
+di mana kamu berenang	melai kueh ikau hanangui
+di mana kamu bekerja 	melai kueh ikau bagawi
+dimana buku nya	melai kueh buku ah
+Dimana rasa sakitnya	melai kueh angat kapehe
+Dimana topimu	melai kueh topim
+Dimana kita akan makan	melai kueh itah  tuh kuman
+Dimana semua orang	melai kueh uras uluh
+dimana ibu ku	melai kueh induku
+Kemana kamu akan pergi	kan kueh ikau tuh tulak
+Ke mana kita akan pergi	kan kueh itah tuh tulak
+dimana anjing mu	melai kueh asum
+dimana ayahku	melai kueh bapakuh
+jangan lengah	ela laya
+aku bermalam disini	aku bamalem melai hetuh
+kenapa kamu sendiri	leha ikau kabuat
+kenapa kamu marah	leha ikau basingi
+kamu anak siapa	ikau anak eweh
+siapa ayahmu	eweh bapam
+siapa ibumu	eweh indum
+siapa temanmu	eweh kawalmuh
+tempat tidur siapa itu	eka batiruh eweh jikau
+tempat siapa itu	eka eweh jikau
+aku lelah sekali	aku uyuh tutu
+kenapa kamu kesal	buhen ikau rise
+mana remotnya	kueh remot ah
+yang mana bukumu	ji kueh bukum
+siapa yang menyuruh dia masuk	eweh ji manyuhu ie tame
+siapa orang itu	eweh uluh jikau
+siapa yang peduli padaku	eweh ji paduli dengangkuh
+siapa yang melakukan ini	eweh ji manggawi jituh
+siapa lagi disana	eweh hindai melai kanih
+apa masalah mu	narai masalah muh
+kapan saya bisa menelpon anda	pea aku tau manelpon ikau
+kapan saya mengatakan itu	pea aku hamauh jikau
+kapan kamu tiba	pea ikau sampai
+kapan kamu membelinya	pea ikau mamili ah
+kapan kamu bangun	pea ikau misik
+kapan sekolah selesai	pea sakula terai
+kapan kamu lulus	pea ikau lulus
+kamu masih mengantuk	ikau masih mangantuk
+kamu masih tidur	ikau masih batiruh
+apakah kamu ibu mereka	en ikau indu ewen
+kamu dengan siapa	ikau dengan eweh
+apakah kamu bersama dengan orang	en ikau hayak dengan uluh
+apakah tangan mu bersih	en lengem barasih
+apakah kamu tidak puas	en ikau dia puas
+hati-hati dengan itu	babuah dengan jikau
+banggalah dengan dirimu sendiri	banggalah dengan arepmu kabuat
+bawa semua uangmu	imbit uras duitmuh
+tapi kamu tidak ada disana	tapi iikau jatun melai kanih
+hubungi aku malam ini	hubung aku alem tuh
+bolehkah aku menjadi teman mu	tau kah aku jadi kawalmuh
+bolehkah aku meminjam baju	taukah aku mainjam baju
+bolehkah aku meminjam bajumu	taukah aku mainjam bajum
+bisakah saya membawa teman	taukah aku mimbit kawal
+bisakah saya membawa temanmu	taukah aku mimbit kawal muh
+bisakah saya membawa temanku	taukah aku mimbit kawalkuh
+bisakah aku meminta bantuan	taukah aku baluku duhup
+bisakah saya menelpon kamu lagi	taukah aku manelpon ikau hindai
+bisakah aku berbicara denganmu	taukah aku bapander dengam
+bisakah aku berbicara dengan dia	taukah aku bapander dengan ie
+bisakah saya mengambil hari libur	taukah aku manduan andau libur
+boleh saya pesan	tau aku mesan
+Bisakah saya memikirkannya?	taukah aku mamikir ah
+Bisakah menyalakan TV	taukah mambelum TV
+Bisakah saya menggunakan ponselmu	Taukah aku mahapan hape muh
+Dapatkah seseorang membantu saya	Dinukah uluh manduhup aku
+Bisakah kita mendapatkan bantuan	Taukah itah mandinu panduhup
+bisakah kita mempercepat ini	taukah itah mampacapat jituh
+Bisakah kau ikut denganku	taukah ikau umba dengangkuh
+kamu ikut dengan kami	ikau umba dengan ikei
+dia ikut kami	iye umba ikei
+aku sudah memberitahumu	aku jadi mander akam
+kamu tidak tau itu apa	ikau dia katawa jikau narai
+kamu punya uang	ikau tege duit
+Lakukan apapun yang kamu suka	gawi barangai ih ji ikau rajin
+kamu punya buku	ikau tege buku
+kamu punya pena	ikau tege pulpen
+kamu punya pensil	ikau tege pensil
+kamu punya penghapus	ikau tege penghapus
+kamu ada membawa kunci	ikau tege mimbit kunci
+kamu punya waktu	ikau tege waktum
+kamu tahu namanya	ikau tawam arae
+kamu tahu aku siapa	ikau tawam aku eweh
+kamu suka sepakbola	ikau rajin sepakbola
+kamu suka belajar	ikau rajin belajar
+kamu suka membaca	ikau rajin mambasa
+kamu suka menyanyi	ikau rajin menyanyi
+kamu suka berenang	ikau rajin hanangui
+apakah anda mengerti saya	en ikau mangerti aku
+Apakah kamu ingin pisang	en ikau handak pisang
+apakah kamu ingin ice cream	en ikau handak es cream
+Apakah kamu ingin anak	en ikau handak anak
+apakah kamu ingin minum	en ikau handak mihup
+apakah kamu ingin makan	en ikau handak kuman
+kamu mau masuk	ikau handak tame
+kamu mau keluar	ikau handak balua
+kamu ingin pergi	ikau handak tulak
+Jangan buka bukumu	ela buka bukum
+jangan buka mulutmu	ela buka nyamam
+buka mulutmu	buka nyamam
+jangan bermain api	ela busik apui
+Jangan terlalu banyak merokok	ela lalau are maroko
+jangan bicara seperti itu	ela bapander kilau te
+jangan bicara dengan siapa pun	ela bapander dengan eweh pun
+jangan bicara dengan orang	ela bapander dengan uluh
+Semua orang bersemangat	uras uluh basamangat
+Semua orang menyalahkanmu	uras uluh manyala ikau
+Jangan pikirkan itu	ela mamikir jite
+jangan merusak bunga	ela marusak bunga
+Jangan merusak mood	ela marusak mood
+jangan membuat aku takut	ela manampa aku mikeh
+Semua orang fokus	uras uluh fokus
+Semua orang tahu itu	uras uluh katawa jikau
+Semua orang membutuhkan bantuan	uras uluh perlu panduhup
+Semua orang berpikir begitu	uras uluh bapikir kalute
+Semua terdiam	uras benyem
+semua orang terdiam	uras uluh benyem
+Semua orang menunggu	uras uluh manunggu
+Semua orang pergi 	uras uluh tulak
+Semua orang ada di sini sekarang	uras uluh tege melai hetuh
+Semua orang marah	uras uluh basingi
+semua orang takut	uras uluh mikeh
+Semua orang berdiri	uras uluh mendeng
+Semuanya tetap tenang	uras ah tatap tanang
+selamat malam semuanya	salamat hamalem uras ah
+Minumlah bersamaku	mihup lah dengangkuh
+sudah dijual belum	jadi injual hindai
+Dia menerima hadiahnya	ie narima hadiah ah
+jangan lupa bawa barang	ela dia bingat mimbit barang
+Dia mencapai tujuannya	ie mancapai tujua ah
+membuat kue	manampa wadai
+Dia selalu bekerja keras	ie selalu bagawi cangkal 
+Aku dan dia adalah sepupu.	aku dengan ie te sapupu
+Dia datang terlalu dini	ie dumah lalau susung
+Dia meminta bantuanku	ie balaku panduhupkuh
+tidak ada yang membantu	jatunti ji manduhup
+Dia membangun rumah baru	iye mambangun huma taheta
+Dia masuk ke kamarku	iye tame kan kamar kuh
+dia masuk ke kamar	iye tame kan kamar
+dia masuk ke dapur	iye tame kan dapur
+dia masuk kerumah	iye tame kan huma
+dia masuk ke wc	iye tame kan wc
+Dia datang menyelamatkanku	ie dumah manyalamat aku
+Dia tidak bisa dipercaya	iye dia tau in percaya
+tidak bisa begitu	dia tau kalute
+Dia tidak terlihat bahagia	iye dia gitan bahagia
+Dia meninggal satu tahun yang lalu	iye malihi ije nyelu bihin
+Dia meninggal satu bulan yang lalu	iye malihi ije bulan yang lalu
+dia meninggal kemarin	iye malihi male
+dia meninggal tadi	ie malihi endau
+dia sudah meninggal	ie jadi malihi
+dia sudah makan	ie jadi kuman
+dia belum makan	ie hindai kuman
+Dia tidak suka telur	ie dia rajin tanteluh
+dia tidak suka ikan	ie dia rajin lauk
+dia tidak suka sayur	ie dia rajin sayur
+dia tidak suka ayam	ie dia rajin manuk
+Dia tidak berbohong	ie dia nanjaru
+dia pelit	ie bukih
+Dia adalah murid yang baik	ie te murid ji harati
+Dia pria tampan	ie hatue bakena
+Dia kakakmu	ie kakam
+Dia adikmu	ie andim
+Dia marah padamu	ie basingi dengam
+Dia basingi padaku	ie basingi dengangkuh
+jangan santai	ela santai
+semoga panjang umur sehat selalu	mundahan panjang umur barigas tarus
+semoga sehat selalu	mundahan baringas tarus
+jangan terlalu bersemangat	ela lalau basemangat
+jangan terlalu rakus	ela lalau babungu
+ayo jalan-jalan	yo mananjung
+Dia jauh dari rumah	ie kejau bara huma
+Dia dekat dari rumah	ie tukep bara huma
+Dia jauh dari bahagia	ie kejau bara bahagia
+Dia sedang membuat kue	ie lagih manampa wadai
+Dia sedang membaca buku	ie lagih mambasa buku
+Dia sedang membaca koran	ie lagih mambasa koran
+Sayangnya dia salah	sayang ah ie sala
+Dia masih berdiri	ie masih mendeng
+Dia masih lari	ie masih hadari
+Dia masih menangis	ie masih manangis
+Dia masih duduk	ie masih munduk
+Dia masih tidur	ie masih batiruh
+Dia yang terpilih	ie ji tapilih
+Dia memakai sarung tangan	ie mahapan sarung lenge
+Dia memakai kacamata	ie mahapa kacamata
+Dia memakai topi	ie mahapa topi
+Dia memakai celana pendek	ie mahapa salawar pandak
+Bagaimana kamu bisa tidak tahu	kenampi ikau dia katawa
+bagaimana kamu bisa sampai di sini	kenampi ikau tau sampai kahetuh
+berapa banyak yang kamu dapatkan	pire kare ji dinum
+aku tidak sabar	aku dia sabar
+Berapa banyak orang yang meninggal	pire kare uluh ji malihi
+Berapa banyak yang kamu bayar	pire kare ji bayar muh
+sudah bayar	jadi bayar
+belajar lagi	belajar hindai
+jangan menyerah	ela manyarah
+beri dia uang	nenga ie duit
+jangan beri dia uang	ela nenga ie duit
+aku selalu percaya kamu	aku salalu percaya ikau
+aku selalu percaya denganmu	aku salalu percaya dengam
+Aku lebih baik dari kamu	aku labih bahalap bara ikau
+jadi diri sendri	jadi arep kabuat
+Saya membelikannya jam	aku mamili aka jam
+Saya membeli lampu	aku mamili lampu
+Aku tidak sabar menunggumu	aku dia sabar manunggum
+kami tidak bertemu	ikei dia hasupa
+Saya tidak punya telepon	aku jatunti telepon
+Saya percaya pada diri saya sendiri	aku percaya huang arep kabuat
+Saya orang baru di sini	aku uluh haru melai hetuh
+mau kemana	handak kakueh
+belajar membaca	balajar mambasa
+Apakah kamu pernah berciuman	en ikau puji hasium
+kamu sudah selesai	ikau jadi salesai
+Sudahkah kamu mencuci pakaian	jadikah ikau bapukan pakaian
+Sudah makan malam belum	jadi kuman hamalem hindai
+Mau mengantar barang	handak magah barang
+kamu sudah selesai berbicara	ikau jadi terai bapander
+Jangan menggangu orang berbicara	ela manderuh uluh bapander
+mau mengantar makan	handak magah panginan
+bawa makanan	imbit panginan
+bawa air minum	imbit danum mihup
+ini untuk kamu	jituh akam
+sudah minum obat	jadi mihup obat
+boleh bertanya	tau misek
+jangan bertanya	ela misek
+siapa bertanya	eweh misek
+kamu punya pacar	ikau tege pacar
+minta air	laku danum
+minta makanan	laku panginan
+lihat aku	ture aku
+baju nya bagus	baju ah bahalap
+jangan dimakan	ela kuma
+Aku tahu kau sedang memikirkanku.	aku tawangkuh ikau lagih mamikir aku
+besok lagi	jewu hindai
+jam berapa besok pergi	jam pire jewu tulak
+kita harus giat belajar	itah harus cangkal sakula
+ketemu lagi	hasupa hindai
+kita harus giat sekolah	itah harus cangkal sakula
+jangan sampai lupa	ela sampai dia bingat
+jangan sampai habis	ela sampai lepah
+kita harus sabar	itah harus sabar
+hallo dunia	halo dunia
+selamat pagi indonesia	selamat hanjewu indonesia
+jangan didengarkan 	ela mahining ah
+jangan berkelahi	ela hakalahi
+Kapan dia masuk kerumah sakit	Hampea iye tame karumah sakit
+masih ingat aku	masih bingat aku
+nanti mau main	kareh handak main
+besok aku pergi	jewu aku tulak
+beli air minum	mili danum mihup
+beli makanan dan buah	mili panginan dengan bua
+beli makanan dan air minum	mili panginan dengan danum mihup
+darimana kamu	bara kueh ikau
+jangan maju 	ela maju
+jangan mundur maju terus	ela mundur maju terus
+dulu aku pernah	bihin aku puji
+berjualan apa dia	bajualan narai ie
+berjualan apa kamu	bajualan narai ikau
+baru bangun tidur	haru misik batiruh
+baru saja berbaring	haru ih menter
+baru saja tidur	haru ih batiruh
+aku mau tidur sebentar	aku handak batiruh hanjulu
+aku dari tempat tidur	aku bara uka batiruh
+membuat sarapan pagi	manampa sarapan hanjewu
+membaca koran	mambasa koran
+membaca buku	mambasa buku
+aku sedang menyisir rambut	aku lagih manyarak balau
+memasak untuk makan malam	bamasak akan kuman hamalem
+memasak untuk makan siang	bamasak akan kuman bentuk andau
+memasak untuk besok pagi	bamasak akan jewu hanjewu
+mengerjakan PR	manggawi PR
+menonton TV	manonton tv
+dia menonton berita	ie manonton berita
+dia menonton sepakbola	ie manonton sepakbola
+jangan membuang sampah sembaran	ela manganan sampah sembarangan
+membuang sampah	manganan sampah
+mencuci piring	menyau piring
+memberi makan anjing dan kucing	manenga panginan asu dengan pusa
+dia kekamar mandi	ie kan kamar mandi
+kita tidak sama	itah dia sama
+cepat tidur	capat batiruh
+cepat minum obat	capat mihup obat
+minum obat	mihup obat
+jangan setiap hari	ela satiap andau
+umur kamu berapa	umur muh pire
+saya bangun tidur cepat setiap hari	aku misik batiruh susung satiap andau
+saya mandi	aku mandi
+siapa didalam	eweh melai huang
+bisakah kamu mandi	taukah ikau mandui
+saya membersihkan tempat tidur	aku marasih uka batiruh
+saya sedang melipat baju	aku lagih malipet baju
+saya sedang melipat selimut	aku lagih malipet kahuwut
+saya mau bersih-bersih dulu	aku handak marasih-rasih helu
+saya sedang mencuci piring	aku lagih menyau piring
+saya sedang memeras pakaian	aku lagih mahamis pakaian
+saya sedang menjemur baju	aku lagi mengekei baju
+saya sedang menyetrika pakaian	aku lagih manyatrika pakaian
+saya menyapu lantai setiap hari	aku mamapas laseh satiap andau
+saya sedang mengepel lantai	aku lagi malap laseh
+saya sedang menonton film ini dengan saudara saya	aku lagih manonton film jituh dengan paharikuh
+saya sedang memasak sop	aku lagih bamasak sop
+saya sedang memasak nasi goreng	aku lagih bamasak nasi goreng
+ibu saya sedang menggoreng ikan	umai kuh lagi manggoreng lauk 
+saya merebus air untuk diminum	aku maluntuh danum akan ihup
+saya minum secangkir teh	aku minup sacangkir the
+ayah saya membaca koran setiap hari	bapakkuh mambasa koran satiap andau
+ayah saya membaca koran setiap pagi	bapakkuh mambasa koran satiap hanjewu
+ayo kita berjalan-jalan	yo itah mananjung-nanjung
+saya memberi makan kucing saya 3 kali sehari	aku manenga panginan pusakuh 3 kali jandau
+saya memberi makan anjing saya 3 kali sehari	aku manenga panginan asungkuh 3 kali jandau
+saya sedang bermain bola dengan teman saya	aku lagih main bola dengan kawalkuh
+kenapa tidak bisa	buhen dia tau
+jangan dekat-dekat	ela tukep-tukep
+jangan jauh	ela kejau
+jangan lupa minum obat	ela dia bingat mihup obat
+aku ada janji	aku tege janji
+kamu pergi sama siapa	ikau tulak dengan eweh
+jalannya lewat mana	jalan ah lewat kueh
+jangan pilih teman	ela baintih kawal
+aku salah apa	aku sala narai
+jangan berbohong	ela mananjaru
+jangan salah paham	ela sala paham
+dia mabuk	ie babusau
+kamu sudah mandi	ikau jadi mandui
+kamu sudah makan	ikau jadi kuman
+bisakah kamu mencuci piring	taukah ikau menyau piring
+bisakah kamu membantu saya mencuci piring	taukah ikau manduhup aku menyau piring
+sudah dapat	jadi dinu
+bisakah kamu membantu saya mengerjakan PR	taukah ikau manduhup aku mengerja PR
+Ibu bisakah membantu saya mengerjakan PR	Umai taukah manduhup aku mangerja PR
+Ayah bisakah membantu saya mengerjakan PR	apang taukah manduhup aku mangerja PR
+jangan mabuk	ela babusau
+darimana uangmu	bara kueh duitmuh
+bisakah temanku datang kerumah hari ini	taukah kawalkuh dumah kahuma andau tuh
+kamu mau makan apa	ikau handak kuman narai
+bisakah kamu menutup pintu	taukah ikau manutup batunggang
+kamu sakit	ikau badarem
+semoga cepat sembuh	mundahan capat barigas
+bisa diulangi lagi	tau ngulang hindai
+bisakah kamu berbicara pelan sedikit	taukah ikau bapander barangkah isut
+barangnya sedikit	barang ah isut
+barangnya sisa sedikit	barang ah tisa isut
+masih ada sisa	masih tege tisa
+apa artinya ini	narai arti ah jituh
+saya tidak bisa mendengar kamu	aku dia tau mahining ikau
+suaramu tidak jelas	suaram dia jelas
+suaramu tidak kedengaran	suaram dia hining
+apa ini	narai jituh
+kemana kamu pergi	kakueh ikau tulak
+jam berapa sudah	jam pire jadi
+hari apa hari ini	andau narai andau tuh
+ini hari kamis	tuh andau kamis
+ini hari senin	tuh andau senin
+ini hari selasa	tuh andau selasa
+ini hari raba	tuh andau raba
+ini hari jumahat	tuh andau jumahat
+ini hari sabtu	tuh andau sabtu
+ini hari minggu	tuh andau minggu
+coba kamu lihat	coba ikau ture
+apa contoh nya	narai contoh ah
+bagaimana contohnya	kenampi contoh ah
+saya mengerti	aku mengerti
+saya tidak mengerti	aku dia mengerti
+saya tahu	aku tawangkuh
+saya tidak tahu	dia kutawa
+jangan berebutan	ela hakarabut
+kurang bagus	kurang bahalap
+apa hobi kamu	narai hobi muh
+kamu berasal dari mana	ikau asal ah bara kueh
+dimana kamu tinggal	melai kueh ikau melai
+ayo pergi bersama	yo tulak hayak
+kamu punya pacar	ikau tege pacar
+saya tidak ada pacar	aku jatun pacar
+masih ada harapan	masih tege harapan
+boleh kah saya meminjam payung	taukah aku minjam payung
+lama tidak bertemu	tahi dia hasupa
+berapa gajimu sebulan	pire gajihmuh ije bulan
+apa pekerjaan mu	narai gawim
+tidak ada masalah	jatun masalah
+apa masalahnya	narai masalah ah
+apa pendapat kamu	narai pendapatmuh
+bagaimana pendapatmu	kenampi pendapatmuh
+banyak minta doa	are balaku doa
+saya tidak tertarik	aku dia tertarik
+saya tertarik	aku tertarik
+tidak masalah itu	dia masalah jikau
+saya terkejut	aku tarewen
+kamu semakin gendut	ikau sasar baseput
+kamu semakin kurus	ikau sasar paringkung
+kamu semakin ganteng	ikau sasar bakena
+kamu semakin cantik	ikau sasar cantik
+itu bukan salah kamu	jikau beken salam
+itu salah kamu	jikau salam
+saya paham perasaan mu	aku paham perasaam
+tidak mungkin	dia mungkin
+tidak kupercaya	dia kupercaya
+hujan mulai turun	hujan nampara muhun
+diluar dingin sekali	melai luar sadingen tutu
+diluar panas sekali	melai luar balasut tutu
+bisakah kamu berbicara lebih keras	taukah ikau bapander labih nyaring
+apa tujuanmu	narai tujuam
+bawa pulang	imbit buli
+masih ada tempat duduk	masih tege uka munduk
+santai dulu	santai helu
+rasanya pahit	angat ah bapait
+rasanya manis dan asam	angat ah manis dengan masem
+rasanya manis dan asin	angat ah manis dengan bakahing
+rasanya asin	angat ah bakahing
+rasanya manis	angat ah manis
+manis sekali	manis tutu
+ini pedas sedikit	jituh padas isut
+rasanya hambar	angat ah batawah
+mana yang lebih kamu suka	jikueh ji labih ikau rajin
+saya kenyang	aku besuh
+terlalu sulit	lalau bahali
+dimana kalian	kueh ketun
+saya lapar	aku balau
+bolehkah saya meminta struknya	taukah aku balaku struk ah
+dimana kamar mandinya	melai kueh kamar mandi ah
+dimana kamar nya	melai kueh kamar ah
+dimana dapur nya	melai kueh dapur ah
+apa kamu cari	narai gawum
+terlalu besar	lalau hai
+terlalu kecil	lalau kurik
+terlalu pendek	lalau pendek
+terlalu tinggi	lalau gantung
+terlalu mahal sekali	lalau larang tutu
+mahal sekali	larang tutu
+murah sekali	murah tutu
+dimana kasirnya	melai kueh kasir ah
+saya ingin mengembalikan ini	aku handak malian jituh
+ini rusak	jituh rusak
+saya ingin menukar uang	aku handak mahurup duit
+sakit sekali disini	pehe tutu melai hetuh
+tunggu sebentar	nunggu hanjulun
+oh begitu	oh kalute
+untuk apa itu	akan narai jikau
+untuk apa	akan narai
+jangan begitu	ela kalute
+siapa lagi	eweh hindai
+itu benar	jikau bujur
+tinggalkan aku	lihi aku
+kamu bercanda 	ikau hureh 
+apa maksudmu	narai maksudmuh
+saya kira begitu	kirakuh kalute
+coba kamu rasa	coba ikau keme
+jangan ribut	ela habut
+jangan sama	ela sama
+sayang sekali	sayang tutu
+sudah pergi 	jadi tulak
+sudah semua	jadi uras
+pergi dari sini	tulak bara hetuh
+jangan lewat disini	ela mahalau melai hetuh
+ada orang dirumah	telah uluh melai huma
+kapan pendaftarannya	pea pendaftaraan ah
+bagaimana dengan ujianmu	kenampi dengan ujiam
+kamu pilih yang mana	ikau mintih ji kueh
+ini pesanan punyamu	ini pesanan ayum
+ada berapa punyamu	tege pire ayum
+siapa yang bertugas	eweh ji batugas
+siapa yang bertugas hari ini	eweh ji batugas andau tuh
+jangan dipakai	ela mahapa
+lihat aku	ture aku
+jangan malas	ela kadian
+aku punya es krim	aku tege es krim
+silahkan masuk	palus wei
+ada yang bisa saya bantu	tege ji tau aku duhup
+iya boleh	yuh tau
+ini punyamu	jituh ayum
+ayo makan disini	yo kuman melai hetuh
+luar biasa hari ini	luar biasa andau tuh
+ini berat	jituh babehat
+ini ringan	jituh mahian
+aku tau semuanya	aku tawangkuh uras ah
+aku tak bermaksud begitu	aku dia bamaksud kalute
+setelah kamu	limbah ikau
+seperti kamu	kilau ikau
+semoga berhasil	mundahan berhasil
+siapa menelpon	eweh manelpon
+siapa yang menelpon	eweh ji manelpon
+tunjukkan padaku	nunjuk akangkuh
+saya punya ide bagus	aku tege ide bahalap
+lama sekali tak bertemu denganmu	tahi tutu dia hasupa dengam
+lama tak bertemu	tahi dia hasupa
+kamu disini	ikau melai hetuh
+jangan bergerak	ela bagarak
+kamu bisa melakukannya	ikau tau menggawi
+hari apa ini	andau narai jituh
+aku mendengar dengan baik	aku mahining dengan bahalap
+pendengarannya bagus	pahining ah bahalap
+benar begitu	bujur kalute
+itu saja	jite ih
+kamu harus tau	ikau harus katawa
+siapa dia	eweh ie
+aku punya banyak teman disini	aku tege are kawal melai hetuh
+itu tak mudah	jikau dia mangat
+itu tak sulit	jikau dia bahali
+aku ada berita	aku tege berita
+kamu mau ikut	ikau handak umba
+kamu tidak ikut	ikau dia umba
+dia sudah sakit selama tiga minggu	ie jadi badarem selama telo minggu
+aku setuju denganmu	aku satuju dengam
+aku lupa siapa namanya	aku dia bingat eweh ara
+aku tak percaya	aku dia percaya
+aku percaya	aku percaya
+saya bangun jam enam	aku misik jam jahawen
+jangan gugup	ela gugup
+dimana kamu ingin bertemu	melai kueh ikau handak hasupa
+tak masuk akal	dia tame akal
+tidak itu bukan milikku	dia jikau beken ayungkuh
+ini milikmu	jituh ayum
+terimakasih sudah datang	tarimakasih jadi dumah
+lepaskan sepatumu	lapas sepatum
+lepaskan sendalmu	lapas sandalmuh
+sepatumu ukuran berapa	sepatum ukuran pire
+sendalmu ukuran berapa	sandalmuh ukuran pire
+tidak cocok	dia cocok
+aku bangga padamu	aku bangga dengam
+aku bangga tutu	aku bangga sekali
+jangan menyerah duluan	ela manyara helu
+aku bangun tidur telat sedikit	aku misik batiruh lambat isut
+aku sedang berusaha	aku lagih berusaha
+aku sudah berusaha	aku jadi berusaha
+kamu benar sekali	ikau bujur tutu
+aku harus mulai belajar	aku harus nampara balajar
+jam berapa mulai	jam pire nampara
+ada yang harus kusampaikan	tege ji harus inyampai kuh
+semua orang tau	uras uluh katawa 
+nanti saja	kareh ih
+aku berhenti bekerja	aku terai bagawi
+berhenti sebentar	tende hanjulu
+dimana kamu berhenti	melai kueh ikau tende
+saya memotong rambut satu bulan sekali	aku manetek balau ije bulan sekali
+aku tidak mau basah	aku dia hakun bisa
+kamu tau jawabannya	ikau tawam jawaba ah
+kamu darimana	ikau barakueh
+kamu sudah membeli daging dan telur	ikau jadi mamili dagian dengan tanteluh
+bacalah itu untukku	basa jikau akangkuh
+kamu bercanda denganku	ikau hureh dengangkuh
+kamu mau minum apa	ikau handak mihup narai
+jangan buat aku menunggu lama	ela manampa aku manunggu tahi
+dia sedang mencari pekerjaan	ie lagih manggau gawi
+aku berbaring sebentar	aku menter hanjulu
+kamu salah paham	ikau sala paham
+itu salahku	jikau salakuh
+percaya atau tidak	percaya en dia
+ada pesan untukmu	tege pesan akam
+ada pesan untukku	tege pesan akangkuh
+boleh aku masuk	tau aku tame
+badanku gatal sekali	bitingkuh bagatel tutu
+percaya denganku	percaya dengangkuh
+dia memperbaiki rumahnya	ie mangambuah huma ah
+kesini kamu	kahetuh ikau
+jangan menangis	ela manangis
+yang mana yang benar	ji kueh ji bujur
+dia sudah kesekolah	ie jadi kan sakula
+dia sudah sekolah	ie jadi sekolah
+dia tidak peduli denganku	ie dia peduli dengangkuh
+terimakasih sarannya	tarimakasih saran ah
+bagus sekali	bahalap tutu
+ada apa	tege narai
+ini dia	tuh ie
+itu terserah kamu	jikau tasarah ikau
+tolong saya	duhup aku
+kenapa tidak	buhen dia
+tunggu dulu	nunggu helu
+berapa banyak	pire kare
+tidak masalah	dia masalah
+saya tersesat	aku layang
+apa itu	narai jikau
+ikuti aku	nuntut aku
+kamu yakin	ikau yakin
+pelan-pelan saja	rangkah-rangkah ih
+jauh sekali	kejau tutu
+dekat sekali	tukep tutu
+datang kerumah	dumah kan huma
+lama sekali 	tahi tutu
+dia terlalu lelah	ie lalau uyuh
+satu	ije
+dua	due
+tiga	telo
+empat	epat
+lima	lime
+enam	jahawen
+tujuh	uju
+delapan	hanya
+sembilan	jalatien
+sepuluh	sapuluh
+sebelas	sabelas
+dua belas	due belas
+tiga belas	telo belas
+empat	epat belas
+lima belas	lime belas
+enam belas	jahawen belas
+tujuh belas	uju belas
+delapan belas	hanya belas
+sembilan belas	jalatien belas
+dua pulus	due pulu
+seratus	ije ratus
+seribu	ije kuyan
+aku	aku
+kau	ikau
+dia	iye
+kita	itah
+kalian	ketun
+mereka	ewen
+ibu	umai
+ayah	apang
+nenek	tambi
+kakek	bue
+bibi	mina
+paman	mama
+adik	andi
+kakak	kaka
+bungsu	busu
+anak bungsu	tambusu
+anak sulung	tambakas
+besan	sanger
+laki-laki	hatue
+perempuan	bawi
+banci	basir
+anak	anak
+anak kecil	anak luhan
+dukun	belian
+Tuhan yang maha kuasa	ranying hatalla langit
+Tuhan 	hatalla
+hantu	kambe
+istri	sawae
+suami	banae
+almarhum	liau
+itu	te
+ini	tuh
+nya	ah
+yang itu	jite
+yang ini	jituh
+sana	hekaw
+sini	hetuh
+dalam	huang
+didalam	intu huang
+di	intu/hang
+ke	kan
+untuk	akan
+begitu	kute
+begini	kutuh
+seperti	kilau
+apa	narai
+kabar	kabar
+mana	kuweh
+sakit	badarem
+dimana	hong kueh
+kapan	pea
+berapa	pire
+bagaimana	kenampi
+siapa	eweh
+makan	kuman
+minum	mihup
+tidur	tiruh
+jalan	mananjung
+lari	hadari
+duduk	munduk
+kerja	bagawi
+ambil	nduan
+jatuh	manjatu
+tikam	nejeb
+bacok	nimpas
+sembelih	ngarat
+berenang	hanangui
+mendayung	mambesei
+menyapu	mapas
+sisir rambur	basarak
+bedakan	bepupur
+rebus	luntuh
+merebuh	maluntuh
+memancing	mamisi
+menebas rumbut	mandirik
+membaca	mambasa
+pukul	mawi
+natal	menampar
+lapar	belau
+kenyang	lapar
+diikat	meteng
+membuat	manampa
+menghitung	reken
+ikut	umba
+tolong	duhup
+tinggal	lihi
+ketinggalan	belihi
+terbang	terawang
+bisa	ulih
+tidak bisa	dia ulih
+mau	hakun
+tidak mau	dia hakun
+atas	hunjun
+bawah	penda
+depan	baun
+belakang	likut
+samping	sila
+tadi	endau
+barusan	haru
+dulu	bihin/huran
+duluan	helu
+besok	jewu
+kemarin	male
+nanti	kareh
+hari	andau
+malam	hamalem
+selamat	salamat
+sore	halemei
+pagi	hanjewu
+tahun	nyelu
+rumah	huma
+tanah	petak
+sawah/ladang	tana
+air	danum
+api 	apui
+daun	dawen
+pancing	pisi
+matikan	belep
+hidup	belum
+lampu	sumbu
+seberang	dimpah
+sampah	rutik
+angin	riwut
+kepala	takuluk
+hidung	urung
+mulut	nyama
+gigi	kasinga
+telinga	pinding
+leher	uyat
+tangan	lenge
+kaki	pai
+pantat	paran
+paha	sapak
+rambut	balaw
+kemaluan perempuan 	bulaw
+muka	bau
+mukamu	baum
+badan	biti
+mata	mata
+bau 	bahewau
+kuku	silu
+bahu	bahai
+payudara	tusu
+lidah	jela
+anjing	asu
+kucing	pusa
+katak	bakatak
+ayam	manuk
+kutu	guti
+belut	lindung
+belalang	sangkalap
+cacing	handalai
+ikan	lauk
+ular	handipe
+tikus	belawau
+burung	burung
+angsa	gangsa
+ular sawah	panganen
+karena	awi
+sebab	sabab
+belum	hindai
+jangan	ela
+bisa	tau
+pernah	puji
+tidak	dia
+ya	iyoh
+lain	beken
+sudah	jadi
+mau	hakun
+apa-apaan	narara
+atau	atawa
+dari	bara
+pilih	intih
+dengan	dengan
+biar	naum
+tutup	nutup
+buka	buka
+iri	bahiri
+pelit	bukih
+bodoh	humung
+pintar	pintar
+binatang	metu
+awal	tampara
+mati	matei
+hidup	belum
+sehat	barigas
+sakit	haban
+kenyang	besuh
+nama	aran
+namamu	aram
+namanya	ara
+namaku	arangku
+mengubur	ngubur
+meminjam	injam
+bolak-balik	bulang-bulik
+pulang	buli
+cepat	capat
+terlalu	lalau
+kelamaan	ketahi
+cepatnya	kacapat ah
+memakai	hapan
+lepas	lapas
+tangkap	nekap
+tikar	amak
+habis	lepah
+ada	tege
+tidak ada	jatun
+masih	masih
+memang	puna
+berhenti/stop/selesai	terai
+nanti	kareh
+segala	kare
+naik	mandai
+turun	muhun
+buang	nganan
+bunuh	patei
+semua	uras
+sedikit	isut
+banyak	are
+kebanyakan	kakare
+kesedikitan	keisutan
+paling besar	tehai
+paling kecil	tekurik
+kasih	nenga
+terang	tarang
+gelap	kaput
+sempit	sekek
+pelit	bisit
+curang	pengakal
+suka bohong	pemikir
+malu	mahamen
+berani	bahanyi
+takut	mikeh
+padi	parei
+busuk	maram
+besar	hai
+kecil	kurik
+bekas koreng	kunat
+luka	behimang
+hantu	kambe
+sempat	sampet
+pisau	lading
+dapat	dinun
+hilang	nihau
+tau	tawangku
+ku tau	kutawa
+entah	tawa
+celana	selawar
+penuh	kuntep
+dalam	handalem
+tertawa	tatawe
+bodoh	humung
+habiskan	palehpah
+masuk	palus
+lega	kalawa
+tinggi	gantung
+pendek	pandak
+capek	uyuh
+benar	bujur
+salah	sala
+taruh	andak
+beras	behas
+nasi	bari
+pedas	bahari
+panas	balasut
+dingin	sadingen
+sendiri	kabuat
+berteman	hakawal
+dengan	dengan
+bagus	bahalap
+terlihat	gitan
+lihat	gite
+kulihat	gitangku
+punya	ayun
+punyaku	ayungku
+punya dia	ayu
+sebentar	hanjulu
+manusia	uluh
+biji	bawak
+telor	tantelu
+anyaman	dare
+asap	asep
+darat	ngambu
+hulu	ngaju
+hilir	ngawa
+antar	agah
+mengantar	magah
+angker	rutas
+diam	benyem
+ramai	rami
+bermain	busik
+merah	bahandang
+biru	biru
+kuning	bahenda
+hijau	bahijau
+putih	baputi
+ganteng	bakena
+cantik 	cantik
+gendut	baseput
+kurus	paringkung
+cicak	tasak
+tebal	tabal
+tua	bakas
+muda 	tabela
+tipis	banipis
+tikus	balawau
+berpikir	bapikir
+berawan	baun andau
+wanita	bawi
+laki-laki	hatue
+basah	bisa
+berbunyi	hamauh
+rumah	huma
+jalan	karatak
+kering	keang
+ikan asin	pundang
+jauh	kejau
+anda semua	ketun handiai
+memeras	mahamis
+bernapas	nahaseng
+mengalir	mahasur
+menguap	malalap
+meludah	maluja
+membakar	mamapoi
+berburu	mandup
+jawab	tumbah
+mencium	mambewau
+mengikat	mameteng
+membeli	mamili
+emas	amas
+memasak	mampakasak
+mematikan,membunuh	mampatei
+mencuri	manakau
+melihat	manampyah
+menangis	manangis
+memotong	manetek
+menggali	mangali
+membengkak	mangembang
+menggaruk	menggayau
+menggigit	mengirut
+melempar	manjakah
+menyembunyikan	manyahukan
+membelah	manyila
+mengunyah	manyipa
+menusuk	manyuduk
+mati	matei
+berdiri	mendeng
+berbaring	menter
+memegang	mimbing
+memilih	mintih
+menanam	mimbul
+menghisap	minyup
+buruk,jelek	papa
+sakit	pehe
+jarum	pilus
+laba-laba	sabangkang
+udang	undang
+kiri	sambil
+kanan	gantau
+tulang	tulang
+tumbuh	tumbu
+akar	uhar
+pohon	upun
+hujan	ujan
+upak	kulit
+bangun	misik
+bantu	dohop
+mengepel	malap
+menulis	manulis
+ayam	manuk
+babi	bawui
+monyet	bakei
+hutang	butang
+uang	duit
+menyumpah	manyapa
+garam	uyah
+pahit	bapait
+asam	masem
+manis	manis
+gula	gula
+kopi	kopi
+menulis	manulis
+merokok	maroko
+minum kopi	mangopi
+mencuci piring	bapenyau
+kaca	kaca
+membaca	mambasa
+mengambar	mengambar
+mencuci pakaian	bapukan
+mencontoh	nyuntu
+menyanyi	manyanyi
+suara	suara
+suaramu	suaram
+sukses	sukses
+balon	galembung
+sabun	sabun
+kunci	kunci
+kayu	kayu
+bunga	kambang
+menyiram	nyiram
+beribadah	sembahyang
+gereja	gareja
+mesjid	masjid
+rumah besar	betang
+sepatu	sepatu
+sendal	sandal
+makanan	balut
+sop	sop
+berang-berang	dengen
+beruang	bahuang
+biawak	bajawak
+buaya	bajai
+harimau	haramaung
+kambing	kambing
+sapi	sapi
+kelelawar	pandan
+kelinci	kelinci
+kepiting	katipkala
+kerbau	hadangan
+kodok	baraku
+kura-kura	kelep
+rusa	bajang
+tupai	tupai
+minta	laku
+laris	payu
+tidak laris	dia payu
+berjualan	bajual
+upah	upah
+anting	bunel
+cincin	tisin
+gelang	galang
+kalung	rantai
+paku	paku
+kompor	kompor
+ayam	manu
+batu	batu
+telapak tangan	lukap
+berbicara	bapander
+boneka	boneka
+mainan	usikan
+harga	rega
+pire	berapa
+murah	murah
+mahal	larang
+hamil	batihi
+melahirkan	manak
+sekolah	sakula
+pergi	tulak
+buah	bua
+kuburan	kuburan
+daun	dawen
+singkong	jawau
+memarut	ngarudan
+kelapa	enyuh
+serai	sarai
+jahe	layi
+kunyit	henda
+kemiri	kaminting
+minyak goreng	undus
+bayi	awau
+menebang	maneweng
+arang	buring
+tali	tali
+bambu	humbang
+jendela	basengok
+pintu	batunggang
+papan	papan
+bareng-bareng	hayak
+tahan	nahan
+mencuri	manakau
+piring	piring
+rumput	uru
+senang	hanjak
+membuat	nampa
+panggil	tehau
+timbul	lembut
+sampan	jukung
+terengah-engah	senge-senge
+telapak kaki	lukap pai
+kenapa	buhen
+orang	uluh
+cinta	sinta
+kamu	ikau
+kangen	taharu
+ketemu	hasupa
+kita	itah
+rezeki	razaki
+makan	kuman
+bersih	barasih
+kotor	papa
+lompat	nangkajuk
+enak	mangat
+tidak enak 	dia mangat
+susah	bahali
+mudah	mangat
+tenggelam	buseng
+iri	bahiri
+berat	babehat
+ringan	mahian
+jika	amun
+hati	atei
+baik	bahalap
+tua 	bakas
+muda	tabela
+tajam	batajim
+batumpul	batumpul
+batu	batu 
+lain	beken
+darah	daha
+dahan	edan
+lemak	enyak
+ekor	ikuh
+daging	isi
+perut	kanai
+menembak	manembak
+mengalahkan	manepe
+membuka	mukei
+lutut	utut
+sementara	pandehan
+keluarga	pahari
+tutur kata	kotak pander
+sakit	badarem
+batuk	bajemuh
+flu	baburek
+dengar	hining
+celana dalam	 kancot
+gatal	bagatel
+baseha	terbakar
+kentut	ketut
+kencing	mahit
+belum 	hindai
+benda	barang
+jangan menggangu	ela mahawe
+bertamu	maja
+akan	untuk
+darimana	bara kueh
+ada	tege
+kenal	senam
+mandi	mandui
+cuci pakaian	bapukan 
+main 	musik 
+angkat	metun 
+lama	tahi
+baru	haru
+lupa 	dia bingat
+pikun	ngalilu
+sekali	sinde
+lagi	hindai
+belum	hindai
+jadi	jadi
+minta	laku
+menebang	maneweng
+basah	bisa
+kering	keang
+hantu	kambe
+pingsan 	tujah
+sakit	pehe
+berapa	pire
+nanti	kareh
+dulu	bihin
+rezeki	rajaki
+remaja	bujang
+menyusui	manusu
+semua	uras
+tunggu	nunggu
+menimba	masib
+dapat	supa
+membuat	manampa
+kue	wadai
+sambal	sambal
+lantai	laseh
+menggepel	malap
+nasi goreng	nasi goreng
+tempat	uka
+terima kasih	tarima kasih
+berjudi	bajudi
+singkong	jawau
+bisa	tau
+dekat	tukep
+jauh	kejau
+tuli	badengen
+malas	kadian
+bicara	bapander
+hilang	nihau
+tanah	petak
+karet	gita
+buku	buku
+kandang	karambang
+banjir	banjir
+rebus	luntuh
+jagung	jagung
+keladi	kujang
+menang	manang
+kalah	kalah
+berkelahi	hakalahi
+bulan	bulan
+bintang	bintang
+cabe rawit	lombok
+bawang	bawang
+nasi	bari
+panci	ketel
+buang air besar	mamani
+buang air kecil	mahit
+lari	hadari
+keluar	balua
+meja	meja
+kursi	kursi
+tarik	narik
+pusar	puser
+tali	tali
+arang	buring
+kipas	kipas
+celana dalam	cawat
+membaca	membasa
+pinjam	minjam
+pulpen	pulpen
+pensil	pensil
+pintar	pintar
+bodoh	humung
+bayi	awau
+rumput	uru
+bercermin	bacuramin
+langit	langit
+matahari	matan andau
+bertanya	misek
+siapa	eweh
+ikan gabus	behau
+kelapa	enyuh
+sibuk	deruh
+marah	basingi
+bersyukur	basyukur
+berdoa	badoa 
+tetap	tatap
+semangat	samangat
+kulihat	kuture
+berani	bahanyi
+peluk	maluk
+cium	nyium
+berbaring	menter
+tersesat	layang
+bersikap	bahadat
+sebentar	sanjulun
+tertidur	tapatiruh
+mendengkur	mangerok
+melambai	mangipai
+tunjukkan	parahan
+cerita	bakesah
+ikuti	nuntut
+beruntung	barazaki
+sementara	pandehan
+lemah	balemu
+bernapas	nahaseng
+menyerah	manyarah
+begitu	kalote
+ini	jituh
+ayo	yo
+lihat	ture
+dia	iye
+berjalan	mananjung
+tanda tangan	tanda lenge
+pelan-pelan	rangkah-rangkah
+kiri	sambil
+kanan	gantau
+setuju	satuju
+tidak setuju	dia satuju
+lupa 	dia bingat
+ingat	bingat
+untuk 	akan
+peduli	paduli
+tahu	tawa
+bangun	misik
+tepat	tapat
+bawa	imbit
+bantu	manduhup
+ini	jituh
+pria	hatue
+wanita	bawi
+buru-buru	kajeng kisu
+bergerak	bagarak
+keringat	hebes
+olahraga	olahraga
+menyanyi	manyanyi
+menunggu	manunggu
+pekerjaan	gawi
+mencari	manggawi
+kehidupan	kahidupan
+menyerah	manyarah
+baik	harati
+tertinggal	tapalihi
+terlambat	lambat
+pintar	pintar
+mabuk	babusau
+cepat	capat
+manusia	kalonen
+merusak	marusak
+menulis	manulis
+batal	balang
+memperbaiki	ngambuah
+mendengar	mahining
+ketemu	sundau
+berteriak	nangkariak
+buta	babute
+muntah	muta
+bersyukur	basukur
+semua	uras
+sangat	toto
+serahkan	nyarah
+musik	lagu
+muda	tabela
+tua 	bakas
+minta	laku
+semoga	mundahan
+selalu	tarus
+ketemu	hasupa
+permen	gulabatu
+menggangu	manderuh
+butuh	perlu
+sering	rancak
+pernah	puji
+boleh 	tau
+ramah	bajenta
+pendiam	pambenyem
+terlalu	lalau
+paksa	maksa
+sebutkan	nyewut
+sentuh	mimbing
+patah	bapulek
+ramah	bajenta
+tenggelam	leteng
+kemarin	male
+babungu	rakus
+untukmu	akam
+untukku	akangkuh
+sana	kanih
+semua	uras
+kehabisan	kalepahan
+senang	hanjak
+teman	kawal
+istri	sawang
+suami	bana
+sekarang	tuh ih
+wayahtuh	wayahtuh
+nakal	badungil
+muda	mangur/tabela
+tua 	bakas/batuwe
+sekarang	tuh ih
+bukan	beken
+bercanda	hureh
+mencari	manggau
+sempurna	sampurna
+tidak ada	jatun
+lelah	uyuh
+garam	uyah
+habis	lepah
+bertahan	batahan
+bertahap	batahap
+masih	masih
+hidup	belum
+mati	matei
+mengambil	manduan
+pernah	puji
+tidak pernah	dia puji
+kamu 	ikau
+mu	muh
+warna	warna
+begini	kutuh
+begitu	kalute
+sembuyi	nyahukan
+buat	akan
+membuat	manampa
+disebut	inyewut
+kuminum	ihupkuh
+harus	harus
+malu	mahamen
+kapan	hampea
+rasa	angat
+bermalam	bamalem
+lengah	laya
+sendiri 	kabuat
+tempat 	eka
+mengundang	marawei
+menyuruh	manyuhu
+bersih	barasih
+menggunakan	mahapa
+bantuan	panduhup
+bawa	imbit
+nama	ara
+namaku	arangkuh
+api 	apui
+bermain	busik
+terlalu	lalau
+keterlaluan	lalau
+berpikir	mamikir
+menyalahkan	manyala
+menyalahkan mu	manyala ikau
+diam	benyem
+menerima	narima
+membantu	manduhup
+tidak bisa	dia tau
+rakus	babungu
+kunyit	henda
+jahe	layi
+air	danum
+seperti 	kilau
+panas	balasut
+dingin	sadingen
+bukan	beken
+sudahkah	jadikah
+bersin	banyen
+batuk	bajemuh
+mendengkur	mangerok
+mimpi	manupi
+nasi	bari
+muncul	lembut
+rumput	uru
+baju	baju
+celana 	salawar
+melipat	malipet
+selimut	kahuwut
+memeras	mahamis
+menyapu	mamapas
+terkejut	tarewen
+semakin	sasar
+turun	muhun
+menukar	mahuruf
+tukar	huruf
+memalukan	mampahawen
+ringan	mahian
+mulai	nampara
+saja 	ih
+tidak mau	dia hakun
+basah	bisa
+telur	tanteluh
+untukku	akangkuh
+gatal	bagatel
+jam berapa mulai	jam pire mulai

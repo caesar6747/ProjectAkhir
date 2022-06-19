@@ -24,6 +24,10 @@ def iris_prediction():
             result, sentences = tojawa(inp_sentence)
         elif lang == 'day':
             result, sentences = todayak(inp_sentence)
+        result = result.replace('<end>', '')
+        sentences = sentences.replace('<start>', '')
+        sentences = sentences.replace('<end>', '')
+        print(result)
         return render_template('index.html', result=result, before=sentences)
     else:
         return "Unsupported Request Method"
